@@ -1,0 +1,12 @@
+name: paulrobinson.net
+description: Still misunderestimated
+meta_description: "Still misunderestimated"
+
+markdown: redcarpet
+pygments: true
+logo: false
+paginate: 15
+
+# Details for the RSS feed generator
+url:            'http://paulrobinson.net'
+author:         'Paul Robinson'
